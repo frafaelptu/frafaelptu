@@ -5,7 +5,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
   
-- 💼 Trabalhando como **Software Engineer Leader** na <a href="LINK DA EMPRESA">Grupo Casas Bahia</a>
+- 💼 Trabalhando como **Software Engineer Leader** no <a href="https://casasbahia.com.br/">Grupo Casas Bahia</a>
 - 🌱 &nbsp; Aprendendo mais sobre
 - **React**
 - **Nextjs**

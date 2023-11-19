@@ -60,4 +60,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-Francisco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscorafael?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/franciscorafael?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Gmail Badge](https://img.shields.io/badge/-francisco-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francisco.rafael.dev@gmail.com)](mailto:francisco.rafael.dev@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-[DO-SEUc-GITHUB](https://github.com/frafaelptu/frafaelptu/edit/master/README.md)httpsu://github.com/frafaelptu)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/frafaelptu](https://github.com/frafaelptu/frafaelptu/edit/master/README.md)https://github.com/frafaelptu)
